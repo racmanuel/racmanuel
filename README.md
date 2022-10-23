@@ -7,7 +7,7 @@
 **¡Te invito a que visites mi página y portafolio de proyectos web!** Ahi encontraras más información acerca de mí y mis proyectos de código, tips, noticias y más...  
   
 
-#### 😎🌐👉[racmanuel.dev](https://racmanuel/dev)   
+#### 😎🌐👉[racmanuel.dev](https://racmanuel.dev)   
   
 
 - 🔭 Actualmente estoy trabajando en [AR Model Viewer for WooCommerce](https://github.com/racmanuel/ar-model-viewer-for-woocommerce)  
